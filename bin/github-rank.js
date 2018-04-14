@@ -1,4 +1,4 @@
-const { rankGithubReposByUser } = require('../lib')
+const { rankGithubReposByUser } = require('../lib/services/github-search-service');
 
 
 
